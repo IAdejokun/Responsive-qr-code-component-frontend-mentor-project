@@ -43,7 +43,7 @@ div.card{
 }
 
 #top{
-
+    font-size: 20px;
     font-weight: 700;
     text-align: center;
     color: var(--Darkblue);
